@@ -1,0 +1,22 @@
+.array-bar {
+    background-color: cadetblue;
+    border-radius: 3px;
+}
+
+.statsbar {
+    margin-top: 5px;
+}
+
+.stats {
+    margin-left: 20px;
+    font-weight: 500;
+}
+
+.xstats {
+    font-weight: 500;
+}
+
+.nstats {
+    font-weight: 900;
+    color: #c6ff00;
+}

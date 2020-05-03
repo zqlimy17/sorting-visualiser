@@ -1,0 +1,24 @@
+* {
+    font-family: "Montserrat", sans-serif !important;
+    /* outline: 1px dashed gold;
+  outline-offset: -1px; */
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+body {
+    background-color: darkslategrey;
+    color: whitesmoke;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
